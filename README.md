@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Tecnologias e Linguagens</h3>
+### Tecnologias e Linguagens
 
 ###
 
