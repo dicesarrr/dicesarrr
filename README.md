@@ -24,9 +24,9 @@ ___
 ### Algumas Informações
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dicesarrr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" align="left" height="110" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dicesarrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" align="center" height="110" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=dicesarrr&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" align="right" height="110" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dicesarrr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" align="left" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dicesarrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" align="center" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=dicesarrr&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" align="right" height="100" alt="streak graph"  />
 </div>
 
   <br></br>
