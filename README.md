@@ -1,14 +1,11 @@
 ## Olá! 👋 Seja bem-vindo!
 
-###
-
 <p align="left">Eu sou Richard Cesar de 18 anos e atualmente sou residente da Zona Leste de São Paulo. Estudo programação pelo Instituto Proa e pretendo seguir nessa área da tecnologia.</p>
 
-###
+
+___
 
 ### Tecnologias e Linguagens
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -22,21 +19,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
+___
 
-<h3 align="left">Algumas Informações</h3>
-
-###
+### Algumas Informações
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dicesarrr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dicesarrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=dicesarrr&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dicesarrr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" align="left" height="110" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dicesarrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" align="center" height="110" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=dicesarrr&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" align="right" height="110" alt="streak graph"  />
+</div>
+
+  <br></br>
+
+<div align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dicesarrr&radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+  <br></br>
+___
 
 <img src="https://raw.githubusercontent.com/dicesarrr/dicesarrr/output/snake.svg" alt="Snake animation" />
 
-###
+___
