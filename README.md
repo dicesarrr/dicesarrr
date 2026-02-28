@@ -1,6 +1,6 @@
 ## Olá! 👋 Seja bem-vindo!
 
-<p align="left">Eu sou Richard Cesar de 18 anos e atualmente sou residente da Zona Leste de São Paulo. Sou estudante de Análise e Desenvolvimento de Sistemas pela FAM Centro Universitário e sou formado em Desenvolvimento Web FullStack Java pelo Instituto PROA.</p>
+<p align="left">Meu nome é Richard Cesar e tenho 19 anos. Sou estudante de Análise e Desenvolvimento de Sistemas pela FAM Centro Universitário e sou formado em Desenvolvimento Web FullStack Java pelo Instituto PROA.</p>
 
 
 ___
